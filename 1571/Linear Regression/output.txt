@@ -1,0 +1,100 @@
+The current model has w0 = 187859.144753 and w1 = 8084981.777144
+The current model has w0 = -39384485368.354164 and w1 = -1692653704716.015381
+The current model has w0 = 374928330662353.625000 and w1 = 16113548822792898.000000
+The current model has w0 = -434044158847775104.000000 and w1 = -18654209812542238720.000000
+The current model has w0 = 94602707692375539712.000000 and w1 = 4065804647188202520576.000000
+The current model has w0 = -4927615861965874790400.000000 and w1 = -211777484596815843033088.000000
+The current model has w0 = 70587573486663527038976.000000 and w1 = 3033689957892676407787520.000000
+The current model has w0 = -301826851636323922477056.000000 and w1 = -12971817043753097410641920.000000
+The current model has w0 = 401390288251826376540160.000000 and w1 = 17250822297996618192912384.000000
+The current model has w0 = -167315310359541866037248.000000 and w1 = -7190823423549727758614528.000000
+The current model has w0 = 21338557680496463052800.000000 and w1 = 917081647004995660283904.000000
+The current model has w0 = -783845168948384890880.000000 and w1 = -33687844759682567634944.000000
+The current model has w0 = 7440753239271944192.000000 and w1 = 319786291922848448512.000000
+The current model has w0 = -15200365897235760.000000 and w1 = -653276421094197248.000000
+The current model has w0 = 4855291665181.445312 and w1 = 208669141832091.750000
+The current model has w0 = -128384166.721750 and w1 = -5526502979.522507
+The current model has w0 = 113238.467085 and w1 = -636.319314
+The current model has w0 = 64563.507032 and w1 = -1506.164804
+The current model has w0 = 38032.213250 and w1 = -888.837498
+The current model has w0 = 23056.453606 and w1 = -540.383124
+The current model has w0 = 14342.661065 and w1 = -337.631531
+The current model has w0 = 9132.162819 and w1 = -216.394215
+The current model has w0 = 5938.684098 and w1 = -142.088694
+The current model has w0 = 3937.080061 and w1 = -95.515585
+The current model has w0 = 2656.613957 and w1 = -65.721837
+The current model has w0 = 1821.995384 and w1 = -46.302021
+The current model has w0 = 1268.539908 and w1 = -33.424278
+The current model has w0 = 895.656569 and w1 = -24.748069
+The current model has w0 = 640.712584 and w1 = -18.816059
+The current model has w0 = 464.011407 and w1 = -14.704595
+The current model has w0 = 339.975856 and w1 = -11.818549
+The current model has w0 = 251.871876 and w1 = -9.768555
+The current model has w0 = 188.593689 and w1 = -8.296205
+The current model has w0 = 142.671807 and w1 = -7.227700
+The current model has w0 = 109.019250 and w1 = -6.444676
+The current model has w0 = 84.130723 and w1 = -5.865572
+The current model has w0 = 65.564033 and w1 = -5.433564
+The current model has w0 = 51.599878 and w1 = -5.108648
+The current model has w0 = 41.015939 and w1 = -4.862382
+The current model has w0 = 32.935118 and w1 = -4.674358
+The current model has w0 = 26.722485 and w1 = -4.529803
+The current model has w0 = 21.914568 and w1 = -4.417933
+The current model has w0 = 18.170366 and w1 = -4.330814
+The current model has w0 = 15.237093 and w1 = -4.262563
+The current model has w0 = 12.926006 and w1 = -4.208788
+The current model has w0 = 11.095221 and w1 = -4.166190
+The current model has w0 = 9.637377 and w1 = -4.132269
+The current model has w0 = 8.470730 and w1 = -4.105124
+The current model has w0 = 7.532671 and w1 = -4.083297
+The current model has w0 = 6.774970 and w1 = -4.065667
+The current model has w0 = 6.160275 and w1 = -4.051364
+The current model has w0 = 5.659500 and w1 = -4.039712
+The current model has w0 = 5.249888 and w1 = -4.030181
+The current model has w0 = 4.913544 and w1 = -4.022355
+The current model has w0 = 4.636332 and w1 = -4.015905
+The current model has w0 = 4.407036 and w1 = -4.010570
+The current model has w0 = 4.216716 and w1 = -4.006142
+The current model has w0 = 4.058221 and w1 = -4.002454
+The current model has w0 = 3.925804 and w1 = -3.999373
+The current model has w0 = 3.814831 and w1 = -3.996791
+The current model has w0 = 3.721549 and w1 = -3.994620
+The current model has w0 = 3.642910 and w1 = -3.992790
+The current model has w0 = 3.576431 and w1 = -3.991244
+The current model has w0 = 3.520077 and w1 = -3.989932
+The current model has w0 = 3.472182 and w1 = -3.988818
+The current model has w0 = 3.431372 and w1 = -3.987868
+The current model has w0 = 3.396513 and w1 = -3.987057
+The current model has w0 = 3.366666 and w1 = -3.986363
+The current model has w0 = 3.341051 and w1 = -3.985767
+The current model has w0 = 3.319018 and w1 = -3.985254
+The current model has w0 = 3.300026 and w1 = -3.984812
+The current model has w0 = 3.283619 and w1 = -3.984430
+The current model has w0 = 3.269417 and w1 = -3.984100
+The current model has w0 = 3.257098 and w1 = -3.983813
+The current model has w0 = 3.246392 and w1 = -3.983564
+The current model has w0 = 3.237070 and w1 = -3.983347
+The current model has w0 = 3.228938 and w1 = -3.983158
+The current model has w0 = 3.221832 and w1 = -3.982993
+The current model has w0 = 3.215611 and w1 = -3.982848
+The current model has w0 = 3.210155 and w1 = -3.982721
+The value of w0 is: 3.208164 and the value of w1 is: -3.982675
+The MSE = 2.820966
+
+The regular dataset
+The w values are: 
+[27.12184281734549, -19.221174878035303, 2.023775322718114, 0.04082428172321895, 27.978261411066903, 19.839202169139195, 0.8535655747664889, 2.3274215407245538, 31.025463795937178, 20.62377985494192, -0.46948807483313226, 5.073321198404452, 6.989078653712531, 0.8206164897731454]
+The error is: 
+3006.888891850263
+
+The normalized dataset
+The w values are: 
+[6.523988515750834, 2.240380543144376, 0.40394050520176766, 0.3603196103967609, 0.18370254366057925, 0.2831426328644588, 0.01314785763119694, 0.552159289308595, 0.44257657998676847, 0.3928551905652864, 0.1853579654493324, 0.28643171335219325, 0.4765490501505603, 0.7034250340389584]
+The error is: 
+28.27867551645414
+
+The normalized dataset with travel time, study time, family relationships popped
+The w values are: 
+[6.359019880485951, 2.5997888557187183, 0.46854497924095617, 0.4170497734490133, 0.014345632480575344, 0.5130435761145212, 0.45405257667004073, 0.21362112125766883, 0.32924785267442597, 0.5524246407889225, 0.796900872091104]
+The error is: 
+27.755913539585457

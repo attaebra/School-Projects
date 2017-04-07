@@ -1,0 +1,20 @@
+Part 1 - minimax_a_b.py
+
+For the first file, test_tree1, the output is:
+
+Utility value of root: 4
+Number of nodes visited: 12
+
+For the second file, test_tree2, the output is:
+
+Utility value of root: 6
+Number of nodes visited: 11
+
+For the third file, test_tree3, the output is:
+
+Utility value of root: 8
+Number of nodes visited: 19
+
+The way I implemented this based on the tree in the file, it didn't actually record where it was in the tree
+at the time I was kind of confused how to make it work any other way. Instead of actually recording where it went
+I opted to count the number of nodes visted.

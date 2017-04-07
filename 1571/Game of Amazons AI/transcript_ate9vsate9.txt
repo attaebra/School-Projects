@@ -1,0 +1,671 @@
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . . 9
+8 . . . . . . . . . . 8
+7 . . . . . . . . . . 7
+6 q . . . . . . . . q 6
+5 . . . . . . . . . . 5
+4 . . . . . . . . . . 4
+3 Q . . . . . . . . Q 3
+2 . . . . . . . . . . 2
+1 . . . . . . . . . . 1
+0 . . . Q . . Q . . . 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['d0', 'e0', 'f0'] time: 14.470352665299059 seconds
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . . 9
+8 . . . . . . . . . . 8
+7 . . . . . . . . . . 7
+6 q . . . . . . . . q 6
+5 . . . . . . . . . . 5
+4 . . . . . . . . . . 4
+3 Q . . . . . . . . Q 3
+2 . . . . . . . . . . 2
+1 . . . . . . . . . . 1
+0 . . . . Q x Q . . . 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['a6', 'a5', 'a4'] time: 14.686232161081888 seconds
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . . 9
+8 . . . . . . . . . . 8
+7 . . . . . . . . . . 7
+6 . . . . . . . . . q 6
+5 q . . . . . . . . . 5
+4 x . . . . . . . . . 4
+3 Q . . . . . . . . Q 3
+2 . . . . . . . . . . 2
+1 . . . . . . . . . . 1
+0 . . . . Q x Q . . . 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['e0', 'f1', 'g1'] time: 14.508378446183723 seconds
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . . 9
+8 . . . . . . . . . . 8
+7 . . . . . . . . . . 7
+6 . . . . . . . . . q 6
+5 q . . . . . . . . . 5
+4 x . . . . . . . . . 4
+3 Q . . . . . . . . Q 3
+2 . . . . . . . . . . 2
+1 . . . . . Q x . . . 1
+0 . . . . . x Q . . . 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['a5', 'b4', 'b3'] time: 14.72792471217091 seconds
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . . 9
+8 . . . . . . . . . . 8
+7 . . . . . . . . . . 7
+6 . . . . . . . . . q 6
+5 . . . . . . . . . . 5
+4 x q . . . . . . . . 4
+3 Q x . . . . . . . Q 3
+2 . . . . . . . . . . 2
+1 . . . . . Q x . . . 1
+0 . . . . . x Q . . . 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['g0', 'h0', 'i0'] time: 14.429963579764411 seconds
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . . 9
+8 . . . . . . . . . . 8
+7 . . . . . . . . . . 7
+6 . . . . . . . . . q 6
+5 . . . . . . . . . . 5
+4 x q . . . . . . . . 4
+3 Q x . . . . . . . Q 3
+2 . . . . . . . . . . 2
+1 . . . . . Q x . . . 1
+0 . . . . . x . Q x . 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['b4', 'c3', 'c2'] time: 14.389745160750792 seconds
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . . 9
+8 . . . . . . . . . . 8
+7 . . . . . . . . . . 7
+6 . . . . . . . . . q 6
+5 . . . . . . . . . . 5
+4 x . . . . . . . . . 4
+3 Q x q . . . . . . Q 3
+2 . . x . . . . . . . 2
+1 . . . . . Q x . . . 1
+0 . . . . . x . Q x . 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['h0', 'i1', 'j0'] time: 14.364453662332863 seconds
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . . 9
+8 . . . . . . . . . . 8
+7 . . . . . . . . . . 7
+6 . . . . . . . . . q 6
+5 . . . . . . . . . . 5
+4 x . . . . . . . . . 4
+3 Q x q . . . . . . Q 3
+2 . . x . . . . . . . 2
+1 . . . . . Q x . Q . 1
+0 . . . . . x . . x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['c3', 'd2', 'd1'] time: 14.682091791281664 seconds
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . . 9
+8 . . . . . . . . . . 8
+7 . . . . . . . . . . 7
+6 . . . . . . . . . q 6
+5 . . . . . . . . . . 5
+4 x . . . . . . . . . 4
+3 Q x . . . . . . . Q 3
+2 . . x q . . . . . . 2
+1 . . . x . Q x . Q . 1
+0 . . . . . x . . x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['f1', 'g0', 'h0'] time: 14.373133761592513 seconds
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . . 9
+8 . . . . . . . . . . 8
+7 . . . . . . . . . . 7
+6 . . . . . . . . . q 6
+5 . . . . . . . . . . 5
+4 x . . . . . . . . . 4
+3 Q x . . . . . . . Q 3
+2 . . x q . . . . . . 2
+1 . . . x . . x . Q . 1
+0 . . . . . x Q x x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['d2', 'e1', 'e0'] time: 14.434660749089517 seconds
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . . 9
+8 . . . . . . . . . . 8
+7 . . . . . . . . . . 7
+6 . . . . . . . . . q 6
+5 . . . . . . . . . . 5
+4 x . . . . . . . . . 4
+3 Q x . . . . . . . Q 3
+2 . . x . . . . . . . 2
+1 . . . x q . x . Q . 1
+0 . . . . x x Q x x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['g0', 'h1', 'i2'] time: 14.243075632575454 seconds
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . . 9
+8 . . . . . . . . . . 8
+7 . . . . . . . . . . 7
+6 . . . . . . . . . q 6
+5 . . . . . . . . . . 5
+4 x . . . . . . . . . 4
+3 Q x . . . . . . . Q 3
+2 . . x . . . . . x . 2
+1 . . . x q . x Q Q . 1
+0 . . . . x x . x x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['e1', 'f1', 'g0'] time: 14.468983066467786 seconds
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . . 9
+8 . . . . . . . . . . 8
+7 . . . . . . . . . . 7
+6 . . . . . . . . . q 6
+5 . . . . . . . . . . 5
+4 x . . . . . . . . . 4
+3 Q x . . . . . . . Q 3
+2 . . x . . . . . x . 2
+1 . . . x . q x Q Q . 1
+0 . . . . x x x x x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['h1', 'h2', 'h1'] time: 14.372640108680457 seconds
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . . 9
+8 . . . . . . . . . . 8
+7 . . . . . . . . . . 7
+6 . . . . . . . . . q 6
+5 . . . . . . . . . . 5
+4 x . . . . . . . . . 4
+3 Q x . . . . . . . Q 3
+2 . . x . . . . Q x . 2
+1 . . . x . q x x Q . 1
+0 . . . . x x x x x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['f1', 'g2', 'h3'] time: 14.380013755721592 seconds
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . . 9
+8 . . . . . . . . . . 8
+7 . . . . . . . . . . 7
+6 . . . . . . . . . q 6
+5 . . . . . . . . . . 5
+4 x . . . . . . . . . 4
+3 Q x . . . . . x . Q 3
+2 . . x . . . q Q x . 2
+1 . . . x . . x x Q . 1
+0 . . . . x x x x x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['i1', 'j1', 'j2'] time: 14.195943512794884 seconds
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . . 9
+8 . . . . . . . . . . 8
+7 . . . . . . . . . . 7
+6 . . . . . . . . . q 6
+5 . . . . . . . . . . 5
+4 x . . . . . . . . . 4
+3 Q x . . . . . x . Q 3
+2 . . x . . . q Q x x 2
+1 . . . x . . x x . Q 1
+0 . . . . x x x x x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['g2', 'g3', 'g2'] time: 14.300375210346488 seconds
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . . 9
+8 . . . . . . . . . . 8
+7 . . . . . . . . . . 7
+6 . . . . . . . . . q 6
+5 . . . . . . . . . . 5
+4 x . . . . . . . . . 4
+3 Q x . . . . q x . Q 3
+2 . . x . . . x Q x x 2
+1 . . . x . . x x . Q 1
+0 . . . . x x x x x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['j1', 'i1', 'j1'] time: 14.08686328587666 seconds
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . . 9
+8 . . . . . . . . . . 8
+7 . . . . . . . . . . 7
+6 . . . . . . . . . q 6
+5 . . . . . . . . . . 5
+4 x . . . . . . . . . 4
+3 Q x . . . . q x . Q 3
+2 . . x . . . x Q x x 2
+1 . . . x . . x x Q x 1
+0 . . . . x x x x x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['g3', 'h4', 'i3'] time: 14.583452515453871 seconds
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . . 9
+8 . . . . . . . . . . 8
+7 . . . . . . . . . . 7
+6 . . . . . . . . . q 6
+5 . . . . . . . . . . 5
+4 x . . . . . . q . . 4
+3 Q x . . . . . x x Q 3
+2 . . x . . . x Q x x 2
+1 . . . x . . x x Q x 1
+0 . . . . x x x x x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['h2', 'g3', 'h2'] time: 14.22396610221557 seconds
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . . 9
+8 . . . . . . . . . . 8
+7 . . . . . . . . . . 7
+6 . . . . . . . . . q 6
+5 . . . . . . . . . . 5
+4 x . . . . . . q . . 4
+3 Q x . . . . Q x x Q 3
+2 . . x . . . x x x x 2
+1 . . . x . . x x Q x 1
+0 . . . . x x x x x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['h4', 'i4', 'j4'] time: 14.419487215370907 seconds
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . . 9
+8 . . . . . . . . . . 8
+7 . . . . . . . . . . 7
+6 . . . . . . . . . q 6
+5 . . . . . . . . . . 5
+4 x . . . . . . . q x 4
+3 Q x . . . . Q x x Q 3
+2 . . x . . . x x x x 2
+1 . . . x . . x x Q x 1
+0 . . . . x x x x x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['a3', 'a2', 'a1'] time: 14.195310766668115 seconds
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . . 9
+8 . . . . . . . . . . 8
+7 . . . . . . . . . . 7
+6 . . . . . . . . . q 6
+5 . . . . . . . . . . 5
+4 x . . . . . . . q x 4
+3 . x . . . . Q x x Q 3
+2 Q . x . . . x x x x 2
+1 x . . x . . x x Q x 1
+0 . . . . x x x x x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['i4', 'j5', 'i6'] time: 14.395540569138689 seconds
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . . 9
+8 . . . . . . . . . . 8
+7 . . . . . . . . . . 7
+6 . . . . . . . . x q 6
+5 . . . . . . . . . q 5
+4 x . . . . . . . . x 4
+3 . x . . . . Q x x Q 3
+2 Q . x . . . x x x x 2
+1 x . . x . . x x Q x 1
+0 . . . . x x x x x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['a2', 'b1', 'b0'] time: 14.082214756510098 seconds
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . . 9
+8 . . . . . . . . . . 8
+7 . . . . . . . . . . 7
+6 . . . . . . . . x q 6
+5 . . . . . . . . . q 5
+4 x . . . . . . . . x 4
+3 . x . . . . Q x x Q 3
+2 . . x . . . x x x x 2
+1 x Q . x . . x x Q x 1
+0 . x . . x x x x x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['j5', 'i5', 'i4'] time: 14.338146698114826 seconds
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . . 9
+8 . . . . . . . . . . 8
+7 . . . . . . . . . . 7
+6 . . . . . . . . x q 6
+5 . . . . . . . . q . 5
+4 x . . . . . . . x x 4
+3 . x . . . . Q x x Q 3
+2 . . x . . . x x x x 2
+1 x Q . x . . x x Q x 1
+0 . x . . x x x x x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['b1', 'c0', 'd0'] time: 14.105483429987487 seconds
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . . 9
+8 . . . . . . . . . . 8
+7 . . . . . . . . . . 7
+6 . . . . . . . . x q 6
+5 . . . . . . . . q . 5
+4 x . . . . . . . x x 4
+3 . x . . . . Q x x Q 3
+2 . . x . . . x x x x 2
+1 x . . x . . x x Q x 1
+0 . x Q x x x x x x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['i5', 'j5', 'i5'] time: 14.200891561905905 seconds
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . . 9
+8 . . . . . . . . . . 8
+7 . . . . . . . . . . 7
+6 . . . . . . . . x q 6
+5 . . . . . . . . x q 5
+4 x . . . . . . . x x 4
+3 . x . . . . Q x x Q 3
+2 . . x . . . x x x x 2
+1 x . . x . . x x Q x 1
+0 . x Q x x x x x x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['c0', 'c1', 'c0'] time: 14.145281156026783 seconds
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . . 9
+8 . . . . . . . . . . 8
+7 . . . . . . . . . . 7
+6 . . . . . . . . x q 6
+5 . . . . . . . . x q 5
+4 x . . . . . . . x x 4
+3 . x . . . . Q x x Q 3
+2 . . x . . . x x x x 2
+1 x . Q x . . x x Q x 1
+0 . x x x x x x x x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['j6', 'j7', 'j6'] time: 14.145052889554847 seconds
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . . 9
+8 . . . . . . . . . . 8
+7 . . . . . . . . . q 7
+6 . . . . . . . . x x 6
+5 . . . . . . . . x q 5
+4 x . . . . . . . x x 4
+3 . x . . . . Q x x Q 3
+2 . . x . . . x x x x 2
+1 x . Q x . . x x Q x 1
+0 . x x x x x x x x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['c1', 'd2', 'e1'] time: 14.076003348477172 seconds
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . . 9
+8 . . . . . . . . . . 8
+7 . . . . . . . . . q 7
+6 . . . . . . . . x x 6
+5 . . . . . . . . x q 5
+4 x . . . . . . . x x 4
+3 . x . . . . Q x x Q 3
+2 . . x Q . . x x x x 2
+1 x . . x x . x x Q x 1
+0 . x x x x x x x x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['j7', 'j8', 'j7'] time: 14.212437152053667 seconds
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . . 9
+8 . . . . . . . . . q 8
+7 . . . . . . . . . x 7
+6 . . . . . . . . x x 6
+5 . . . . . . . . x q 5
+4 x . . . . . . . x x 4
+3 . x . . . . Q x x Q 3
+2 . . x Q . . x x x x 2
+1 x . . x x . x x Q x 1
+0 . x x x x x x x x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['d2', 'e2', 'f1'] time: 14.204969638425894 seconds
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . . 9
+8 . . . . . . . . . q 8
+7 . . . . . . . . . x 7
+6 . . . . . . . . x x 6
+5 . . . . . . . . x q 5
+4 x . . . . . . . x x 4
+3 . x . . . . Q x x Q 3
+2 . . x . Q . x x x x 2
+1 x . . x x x x x Q x 1
+0 . x x x x x x x x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['j8', 'j9', 'j8'] time: 14.335027340776719 seconds
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . q 9
+8 . . . . . . . . . x 8
+7 . . . . . . . . . x 7
+6 . . . . . . . . x x 6
+5 . . . . . . . . x q 5
+4 x . . . . . . . x x 4
+3 . x . . . . Q x x Q 3
+2 . . x . Q . x x x x 2
+1 x . . x x x x x Q x 1
+0 . x x x x x x x x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['e2', 'f2', 'f3'] time: 14.098729302417667 seconds
+     Black
+  a b c d e f g h i j
+9 . . . q . . q . . q 9
+8 . . . . . . . . . x 8
+7 . . . . . . . . . x 7
+6 . . . . . . . . x x 6
+5 . . . . . . . . x q 5
+4 x . . . . . . . x x 4
+3 . x . . . x Q x x Q 3
+2 . . x . . Q x x x x 2
+1 x . . x x x x x Q x 1
+0 . x x x x x x x x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['d9', 'd8', 'd7'] time: 14.199284309944062 seconds
+     Black
+  a b c d e f g h i j
+9 . . . . . . q . . q 9
+8 . . . q . . . . . x 8
+7 . . . x . . . . . x 7
+6 . . . . . . . . x x 6
+5 . . . . . . . . x q 5
+4 x . . . . . . . x x 4
+3 . x . . . x Q x x Q 3
+2 . . x . . Q x x x x 2
+1 x . . x x x x x Q x 1
+0 . x x x x x x x x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['f2', 'e3', 'e2'] time: 14.144941529649884 seconds
+     Black
+  a b c d e f g h i j
+9 . . . . . . q . . q 9
+8 . . . q . . . . . x 8
+7 . . . x . . . . . x 7
+6 . . . . . . . . x x 6
+5 . . . . . . . . x q 5
+4 x . . . . . . . x x 4
+3 . x . . Q x Q x x Q 3
+2 . . x . x . x x x x 2
+1 x . . x x x x x Q x 1
+0 . x x x x x x x x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['d8', 'e7', 'e6'] time: 14.146862381344135 seconds
+     Black
+  a b c d e f g h i j
+9 . . . . . . q . . q 9
+8 . . . . . . . . . x 8
+7 . . . x q . . . . x 7
+6 . . . . x . . . x x 6
+5 . . . . . . . . x q 5
+4 x . . . . . . . x x 4
+3 . x . . Q x Q x x Q 3
+2 . . x . x . x x x x 2
+1 x . . x x x x x Q x 1
+0 . x x x x x x x x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['e3', 'f2', 'e3'] time: 14.068997061122559 seconds
+     Black
+  a b c d e f g h i j
+9 . . . . . . q . . q 9
+8 . . . . . . . . . x 8
+7 . . . x q . . . . x 7
+6 . . . . x . . . x x 6
+5 . . . . . . . . x q 5
+4 x . . . . . . . x x 4
+3 . x . . x x Q x x Q 3
+2 . . x . x Q x x x x 2
+1 x . . x x x x x Q x 1
+0 . x x x x x x x x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['e7', 'f6', 'f5'] time: 14.181340005256516 seconds
+     Black
+  a b c d e f g h i j
+9 . . . . . . q . . q 9
+8 . . . . . . . . . x 8
+7 . . . x . . . . . x 7
+6 . . . . x q . . x x 6
+5 . . . . . x . . x q 5
+4 x . . . . . . . x x 4
+3 . x . . x x Q x x Q 3
+2 . . x . x Q x x x x 2
+1 x . . x x x x x Q x 1
+0 . x x x x x x x x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['g3', 'h4', 'h5'] time: 14.029552614781778 seconds
+     Black
+  a b c d e f g h i j
+9 . . . . . . q . . q 9
+8 . . . . . . . . . x 8
+7 . . . x . . . . . x 7
+6 . . . . x q . . x x 6
+5 . . . . . x . x x q 5
+4 x . . . . . . Q x x 4
+3 . x . . x x . x x Q 3
+2 . . x . x Q x x x x 2
+1 x . . x x x x x Q x 1
+0 . x x x x x x x x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['f6', 'g5', 'g4'] time: 1.712708085155782 seconds
+     Black
+  a b c d e f g h i j
+9 . . . . . . q . . q 9
+8 . . . . . . . . . x 8
+7 . . . x . . . . . x 7
+6 . . . . x . . . x x 6
+5 . . . . . x q x x q 5
+4 x . . . . . x Q x x 4
+3 . x . . x x . x x Q 3
+2 . . x . x Q x x x x 2
+1 x . . x x x x x Q x 1
+0 . x x x x x x x x x 0
+  a b c d e f g h i j
+     White
+None
+ate9 : move: ['f2', 'g3', 'f4'] time: 1.9209912140875076 seconds
+     Black
+  a b c d e f g h i j
+9 . . . . . . q . . q 9
+8 . . . . . . . . . x 8
+7 . . . x . . . . . x 7
+6 . . . . x . . . x x 6
+5 . . . . . x q x x q 5
+4 x . . . . x x Q x x 4
+3 . x . . x x Q x x Q 3
+2 . . x . x . x x x x 2
+1 x . . x x x x x Q x 1
+0 . x x x x x x x x x 0
+  a b c d e f g h i j
+     White
+ate9 (black) wins by a margin of 49
