@@ -1,0 +1,52 @@
+Part D Images
+
+For each of the images I adjusted height, and width separately by the amount of pixels listed
+
+Kendrick Lamar art
+cornrow_kenny.png
+Original Dimensions = 2125x978
+
+Saved Files
+	Horizontal
+		My 450px height adjustment = corn_row_kenny_heightadj.png
+		Matlab 450px height adjustment = kennyH_matlab_resize.png
+	Vertical
+		My 450px height adjustment = corn_row_kenny_widthadj.png
+		Matlab 450px height adjustment = kennyV_matlab_resize.png
+Horizontal Seam analysis
+	My adjustment seems to me to be more realistic as it removed many unnecessary pixels from the shirt which means a lot of low energy seams could be generated there. While the picture looks more realistic it seems to have overall changed the expression in the face whereas the matlab shrink, although proportionally strange, keeps the proper expression as the original.
+Vertical Seam Analysis
+	My adjustment definitely prevails as better for this shrink. The proportions and expression of the image are preserved, whereas the Matlab shrink is noticably thinner in the face and torso. This was probably better because a lot of seas could be generated around the brown background.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+Penguin Picture
+penguin.jpg
+Original Dimensions = 564x423
+
+Saved Files
+	Horizontal
+		My 200px height adjustment = penguin_heightadj.png
+		Matlab 200px height adjustment = penguinH_matlab_resize.png
+	Vertical
+		My 200px height adjustment = penguin_widthadj.png
+		Matlab 200 px height adjustment = penguinV_matlab_resize.png
+Horizontal Seam analysis
+	The image loses a significant amount of quality from my resize compared to the Matlab image. The Matlab image preserves a bunch of quality in terms of uniformity and crisp conformity. My image looks more like a real penguin but the shimmer on the chest of the penguin is distorted and the wing is cut off due to vertical seams. Because of this it looks choppy.
+Vertical Seam Analysis
+	My adjustment completely fails as the snow coupled with the white chest of the penguin allows for perfect removal seams. This causes the penguin to be completely maformed and is also very tall looking compared to the original. Matlab makes the image a lot taller the same why I do, but the penguin isn't stange and malformed, just tall.
+______________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________
+Ocean Picture
+ocean.jpg
+Original Dimensions = 620x388
+
+Saved Files
+	Horizontal
+		My 200px height adjustment = ocean_heightadj.png
+		Matlab 200px height adjustment = oceanH_matlab_resize.png
+	Vertical
+		My 200px height adjustment = ocean_widthadj.png
+		Matlab 200 px height adjustment = oceanV_matlab_resize.png
+Horizontal Seam analysis
+	My image looks overall better to me and preserves the originals integrity, but suffers major sharpness issues due to the fact that it's a busy image. Since the image is busy it removes a lot of sporatic seams and makes things in it look choppy, and now looks like it's painted. Matlab looks slightly squished, but is a lot sharper.
+Vertical Seam Analysis
+	My image does not look as "painted" as the horizontal did, so I think it is a success here. The Matlab image again looks slightly squished, but also suffers some sharpness issues. I say my image succeeds here.

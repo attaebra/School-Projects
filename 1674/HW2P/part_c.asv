@@ -1,0 +1,13 @@
+prague_image = imread('prague.jpg');
+mall_image = imread('mall.jpg');
+
+energy_image_prague = energy_image(prague_image);
+energy_image_mall = energy_image(mall_image);
+
+
+vert_string = 'VERTICAL';
+horz_string = 'HORIZONTAL';
+
+cumulative_map = cumulative_minimum_energy_map(energy_image_prague, horz_string);
+seam = find_optimal_horizontal_seam(cumulative_map);
+displaySeam(prague_image, seam, horz_string);
