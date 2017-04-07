@@ -1,0 +1,3 @@
+As displayed, it seems that since k = the number of clusters and clusters correspond directly with the amount of 
+colors, we can infer that the more colors we have the closer the image is to the original image. Therefore,
+if we have more clusters the quantized image will likely be closer to the original image and have a smaller SSD.
