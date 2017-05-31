@@ -1,0 +1,2 @@
+# CS445 Data Structures at the University of Pittsburgh
+This course emphasizes the study of the basic data structures of computer science (e.g., bags, lists, stacks, queues, trees) and their implementations using the Java language. We will cover objects and reference variables, as well as programming techniques that use recursion. Students will be introduced to various searching and sorting methods and will develop an intuitive understanding of the complexity of algorithms.
