@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<title>CS1520 Catering</title>
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+<div class="page">
+	<h1>Catering Center</h1>
+	<div class="metanav">
+	{% if not session.logged_in %}
+		<a href="{{ url_for('login') }}">Log in or create a customer account</a>
+	{% else %}
+		<a href="{{ url_for('logout') }}">Log out</a>
+	{% endif %}
+	</div>
+	
+	{% for message in get_flashed_messages() %}
+	<div class="flash">{{ message }}</div>
+	{% endfor %}
+	
+{% block body %}
+{% endblock %}
+</div>

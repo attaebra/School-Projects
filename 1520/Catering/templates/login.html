@@ -1,0 +1,24 @@
+{% extends "layout.html" %}
+{% block body %}
+	<h2>Log in</h2>
+	{% if error %}<p class="error"><strong>Error:</strong> {{ error }}{% endif %}
+	<form action="{{ url_for('login') }}" method="post">
+		<dl>
+		<dt>Username:
+		<dd><input type="text" name="username">
+		<dt>Password:
+		<dd><input type="password" name="password">
+		<dd><input class="button" type="submit" value="Login">
+		</dl>
+	</form>
+	<h2>Create new customer account</h2>
+	<form action="{{ url_for('create_customer') }}" method="post">
+		<dl>
+		<dt>Username:
+		<dd><input type="text" name="cust_username">
+		<dt>Password:
+		<dd><input type="password" name="cust_password">
+		<dd><input class="button" type="submit" value="Submit customer">
+		</dl>
+	</form>
+{% endblock %}

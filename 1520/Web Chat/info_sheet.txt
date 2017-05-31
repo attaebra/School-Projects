@@ -1,0 +1,60 @@
+========================================
+CS/COE 1520 Assignment Information Sheet
+----------------------------------------
+
+You must submit an information sheet with every assignment. Also be sure
+to submit all materials following the procedures described on the
+submission procedures page.
+
+Name:  Atta Ebrahimo
+
+Lecture section: MW 230
+
+Recitation day and time:  Monday @ 4:30
+
+Assignment #:  3
+
+Program due date:  7/25
+
+Handed in date:  7/25
+
+Source code file name(s):
+chat.py
+models.py
+script.js
+
+
+
+
+
+
+Other file name(s) (if relevant):
+
+style.css
+layout.html
+login.html
+rooms.html
+chatroom.html
+
+
+
+
+
+Does your project run without error?: Yeah
+
+If not, what is/are the error(s) and which parts of your program run
+correctly?:
+
+
+
+
+
+
+Additional comments to the grader:
+When sending a message to the page, be sure not to press enter. You must push the button to submit the form.
+
+
+
+
+
+

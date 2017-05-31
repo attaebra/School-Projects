@@ -1,0 +1,19 @@
+{% extends "layout.html" %}
+{% block body %}
+	<script type="text/javascript" src="{{ url_for('static', filename='script.js') }}"></script>
+	<h2>{{ chatroom.room_name }}</h2>
+	{# <h3>Welcome <span id="username"> {{ username }} </span>! #}
+	<small><a href="{{ url_for('room_list') }}">Leave room</a><//small>
+	
+	<table id="message_list">
+		{% for message in chatroom.messages %}
+			<tr><td>{{ message.username + " : " + message.message_text }}</td></tr>
+		{% endfor %}
+	</table>
+	
+	<h4> Send message: </h4>
+	<form name="messageForm">
+		<input type="text" id="new_message" name="new_message" value="" width="70"/>
+		<input type="button" id="submit_message" value="Post Message" />
+	</form>
+{% endblock %}

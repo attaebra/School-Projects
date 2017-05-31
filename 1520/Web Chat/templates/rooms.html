@@ -1,0 +1,21 @@
+{% extends "layout.html" %}
+{% block body %}
+	<ul class="rooms">
+	<h3>Rooms:</h3>
+	{% for room in chatrooms %}
+		<li><a href="{{ url_for('room', room_id=room.room_id) }}">{{ room }}</a>
+	{% else %}
+		<li><b>No chat rooms are available.</b>
+	{% endfor %}
+	</ul> 
+	
+	<h2>Create new chat room:</h2>
+	<form action="{{ url_for('create_room') }}" method="post">
+		<dl>
+		<dt><b>Chatroom Name:</b>
+		<dd><input type="text" name="roomname">
+		<dd><input class="button" type="submit" value="Create New Room">
+		</dl>
+	</form>
+	
+{% endblock %}
